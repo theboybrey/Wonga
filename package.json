@@ -8,11 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/theboybreyy/Wonga.git"
+    "url": "git+https://github.com/theboybreyy/Wonga.git"
   },
   "author": "Lex Benjamin",
   "license": "ISC",
   "dependencies": {
     "uuid": "^8.3.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/theboybreyy/Wonga/issues"
+  },
+  "homepage": "https://github.com/theboybreyy/Wonga#readme",
+  "devDependencies": {}
 }
