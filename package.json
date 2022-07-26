@@ -11,5 +11,8 @@
     "url": "https://github.com/theboybreyy/Wonga.git"
   },
   "author": "Lex Benjamin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
