@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-backend",
+  "version": "1.0.0",
+  "description": "This is another Node JS Tuts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theboybreyy/Wonga.git"
+  },
+  "author": "Lex Benjamin",
+  "license": "ISC"
+}
